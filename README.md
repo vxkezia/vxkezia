@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil 💙
+### Boas vindas ao meu perfil 💛
 
 
 **vxkezia/vxkezia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
