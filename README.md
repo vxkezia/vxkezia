@@ -1,16 +1,18 @@
 ### Boas vindas ao meu perfil 💛
 
+Meu nome é Kezia vitória
 
-**vxkezia/vxkezia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou cursando o Alura (https://wwww.alura.com.br)
+- Estou me desenvolvendo na linguagem de JavaScript
+- Utilizo esse espaço para me desenvolver e ter organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### informações de contato 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-  
-  
+kezia.santana.silva@escola.pr.gov.br
+
+![image](https://github.com/vxkezia/vxkezia/assets/143628069/ebd8845f-73c5-426b-bc3a-06f2739235d8)
+
+
+
 
 
